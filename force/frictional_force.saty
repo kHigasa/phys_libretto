@@ -1,0 +1,27 @@
+@import: ../thesis
+@require: stdjareport
+
+document (|
+    title-ja = {摩擦力};
+    author-ja = {kohgasa};
+    abstract-ja = '<
+        +p{
+        }
+    >;
+    bibliography = [
+        (`sunakawa_qm`,
+            Book(|
+                author = {|山本義隆|};
+                title = {磁力と重力の発見1};
+                publisher = {みすず書房};
+                year = 2003;
+            |)
+        );
+    ];
+|) '<
+    +chapter{hoge}<
+        +p{
+            hoge
+        }
+    >
+>
