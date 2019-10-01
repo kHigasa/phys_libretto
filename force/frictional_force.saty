@@ -2,7 +2,7 @@
 @require: stdjareport
 
 document (|
-    title-ja = {摩擦力};
+    title-ja = {摩擦力について};
     author-ja = {kohgasa};
     abstract-ja = '<
         +p{
