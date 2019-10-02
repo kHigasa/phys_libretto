@@ -9,7 +9,7 @@ document (|
         }
     >;
     bibliography = [
-        (`sunakawa_qm`,
+        (`fin_1`,
             Book(|
                 author = {|山本義隆|};
                 title = {磁力と重力の発見1};
