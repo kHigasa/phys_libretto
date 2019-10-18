@@ -6,6 +6,7 @@ document (|
     author-ja = {kohgasa};
     abstract-ja = '<
         +p{
+            本稿では, 最も身近な力の一つである摩擦力についての定式について述べる.
         }
     >;
     bibliography = [
@@ -19,7 +20,17 @@ document (|
         );
     ];
 |) '<
-    +chapter{hoge}<
+    +chapter{発見史}<
+        +p{
+
+        }
+    >
+    +chapter{法則}<
+        +p{
+
+        }
+    >
+    +chapter{転がる球の運動[例題]}<
         +p{
             hoge
         }
